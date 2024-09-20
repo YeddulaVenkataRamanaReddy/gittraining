@@ -6,6 +6,8 @@
 - 'git commit' or 'git commit -m "message"':writes messages as commit
 - 'git log' : shows the history of our commits
 - 'git log --oneline' : shows the shorter oneline commit
+
+#Remotes
 - 'git remote add <NAME> <URL> ': adds the <URL> as a remote with the name <NAME>
    - <NAME> : is by convention called 'origin'
 - 'git remote -v' : looks at all the remotes you have
