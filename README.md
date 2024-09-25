@@ -14,3 +14,7 @@
 - 'git push <where> <what> ': takes your repository and pushes the  <what> to <where>
 - 'git remote rm <NAME> : removes the remote called <NAME>
 - 'git pull <where> <what> ': pulls the <what> branch in<where> to local computer 
+
+## Branches
+
+- 'git branch {NAME} : to create the branch
