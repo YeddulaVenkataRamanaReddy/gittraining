@@ -18,3 +18,4 @@
 ## Branches
 
 - 'git branch {NAME} : to create the branch
+- 'git switch {NAME} : switch to the Branch Name
