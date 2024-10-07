@@ -20,3 +20,4 @@
 - 'git branch {NAME} : to create the branch
 - 'git switch {NAME} : switch to the Branch Name
 
+- Merging branches remotely refers to Pull Request or merge request
