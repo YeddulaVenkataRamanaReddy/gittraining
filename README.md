@@ -24,3 +24,10 @@
 - to upadatea PR, we make the changes to the branch locally and re -push
 
 - a merge conflict will happen after a pr has been raised 
+
+- 'git fetch' :update your git log without making changes to your files 
+   -'git fetch --prune': update your log and also remove delected remote branches
+
+
+- git push -f :force push to the remote 
+- git push --force-with-lease: more mindfull of collabrations
