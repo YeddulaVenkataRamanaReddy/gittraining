@@ -29,3 +29,5 @@
    -'git fetch --prune': update your log and also remove delected remote branches
 
 
+- git push -f :force push to the remote 
+- git push --force-with-lease: more mindfull of collabrations
