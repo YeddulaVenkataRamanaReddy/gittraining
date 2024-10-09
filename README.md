@@ -23,4 +23,3 @@
 - Merging branches remotely refers to Pull Request or merge request
 - to upadatea PR, we make the changes to the branch locally and re -push
 
-- merge conflict can happen after pr has raised 
